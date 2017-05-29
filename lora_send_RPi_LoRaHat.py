@@ -1,5 +1,5 @@
 """
-Python script to send data using the Microchip RN2XX3 LoRa module on a Raspberry Pi Zero hat. 
+Python script to send data using the Microchip RN2XX3 LoRa module on a Raspberry Pi Zero LoRa hat. 
 To free the Mini UART open a terminal enter the command:
 
 $sudo raspi-config 
