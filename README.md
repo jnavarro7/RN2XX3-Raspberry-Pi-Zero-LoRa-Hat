@@ -19,7 +19,7 @@ The script stablishes the connection with the Microchip RN2XX3 module via UART a
 
 ### Hardware
 
-Hardware design files will be released soon.
+Hardware design files located in the "hardware" directory.
 
 ![alt tag](/pictures/1.png)
 
